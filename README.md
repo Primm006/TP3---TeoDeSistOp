@@ -15,7 +15,7 @@
 - **Profesora Titular / Responsable de Cátedra:** Ing. María Fernanda Vázquez.
 - **Jefe de Trabajos Prácticos (JTP):** Ing. Fabio D. Argañaraz.
 - **Modalidad:** Estrictamente **individual**, autoevaluativo con exportación a JSON estructurado y entrega mediante **Git / GitHub Classroom**.
-- **Organización Oficial en GitHub:** [https://github.com/UNJU-Teoria-de-Sistemas-Operativos](https://github.com/UNJU-Teoria-de-Sistemas-Operativos)
+- **Organización Oficial en GitHub:** [https://github.com/Primm006/TP3---TeoDeSistOp](https://github.com/Primm006/TP3---TeoDeSistOp)
 
 ---
 
